@@ -81,6 +81,7 @@
             this.txtEmpleado.Name = "txtEmpleado";
             this.txtEmpleado.Size = new System.Drawing.Size(177, 20);
             this.txtEmpleado.TabIndex = 1;
+            this.txtEmpleado.TabStop = false;
             // 
             // btnFiltrar
             // 
@@ -118,7 +119,7 @@
             this.btnDeshacer.UseVisualStyleBackColor = false;
             this.btnDeshacer.Click += new System.EventHandler(this.btnDeshacer_Click);
             // 
-            // VentaEmpleado
+            // FrmVentaEmpleado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -130,7 +131,7 @@
             this.Controls.Add(this.txtEmpleado);
             this.Controls.Add(this.btnAceptar);
             this.Controls.Add(this.dtgvVenta);
-            this.Name = "VentaEmpleado";
+            this.Name = "FrmVentaEmpleado";
             this.Text = "VentaEmpleado";
             ((System.ComponentModel.ISupportInitialize)(this.dtgvVenta)).EndInit();
             this.ResumeLayout(false);
