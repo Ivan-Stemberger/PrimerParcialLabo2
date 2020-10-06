@@ -28,3 +28,9 @@ E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.csproj.GenerateR
 E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.csproj.CoreCompileInputs.cache
 E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.exe
 E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.pdb
+E:\PrimerParcialLabo2\Stemberger.Ivan\bin\Debug\Stemberger.Ivan.exe.config
+E:\PrimerParcialLabo2\Stemberger.Ivan\bin\Debug\Stemberger.Ivan.exe
+E:\PrimerParcialLabo2\Stemberger.Ivan\bin\Debug\Stemberger.Ivan.pdb
+E:\PrimerParcialLabo2\Stemberger.Ivan\bin\Debug\Persona.dll
+E:\PrimerParcialLabo2\Stemberger.Ivan\bin\Debug\Persona.pdb
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.csproj.CopyComplete
