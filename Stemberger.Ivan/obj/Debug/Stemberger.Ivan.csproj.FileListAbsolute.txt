@@ -16,3 +16,15 @@ E:\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.pdb
 E:\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmLogin.resources
 E:\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmMenú.resources
 E:\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmVentaEmpleado.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.csprojAssemblyReference.cache
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmCompras.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmStock.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmLogin.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmMenú.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmAgregarProducto.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.Properties.Resources.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.FrmVentaEmpleado.resources
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.csproj.GenerateResource.cache
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.csproj.CoreCompileInputs.cache
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.exe
+E:\PrimerParcialLabo2\Stemberger.Ivan\obj\Debug\Stemberger.Ivan.pdb

@@ -1,0 +1,17 @@
+E:\Persona\bin\Debug\netstandard2.0\Persona.deps.json
+E:\Persona\bin\Debug\netstandard2.0\Persona.dll
+E:\Persona\bin\Debug\netstandard2.0\Persona.pdb
+E:\Persona\obj\Debug\netstandard2.0\Persona.AssemblyInfoInputs.cache
+E:\Persona\obj\Debug\netstandard2.0\Persona.AssemblyInfo.cs
+E:\Persona\obj\Debug\netstandard2.0\Persona.csproj.CoreCompileInputs.cache
+E:\Persona\obj\Debug\netstandard2.0\Persona.dll
+E:\Persona\obj\Debug\netstandard2.0\Persona.pdb
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\bin\Debug\netstandard2.0\Persona.deps.json
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\bin\Debug\netstandard2.0\Persona.dll
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\bin\Debug\netstandard2.0\Persona.pdb
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\obj\Debug\netstandard2.0\Persona.AssemblyInfoInputs.cache
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\obj\Debug\netstandard2.0\Persona.AssemblyInfo.cs
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\obj\Debug\netstandard2.0\Persona.csproj.CoreCompileInputs.cache
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\obj\Debug\netstandard2.0\Persona.dll
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\obj\Debug\netstandard2.0\Persona.pdb
+E:\PrimerParcialLabo2\Stemberger.Ivan\Persona\obj\Debug\netstandard2.0\Persona.csprojAssemblyReference.cache
